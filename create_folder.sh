@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author: Nathan Brady
 # This script creates a folder for playbooks and creates link
 echo "Please enter the path relative the to root of playbooks:"
 echo "eg. playbooks/test"

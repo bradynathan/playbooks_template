@@ -1,4 +1,6 @@
 #!/bin/bash
+# Author: Nathan Brady
+# This script is used to quickly pull updates from submodules and commit them.
 
 # Make sure you are working with the latest version of the repository
 git pull origin master
